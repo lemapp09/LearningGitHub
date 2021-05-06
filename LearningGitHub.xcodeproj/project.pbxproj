@@ -11,6 +11,7 @@
 		55F24CBF26441C760000B4B6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F24CBE26441C760000B4B6 /* ContentView.swift */; };
 		55F24CC126441C770000B4B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55F24CC026441C770000B4B6 /* Assets.xcassets */; };
 		55F24CC426441C770000B4B6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55F24CC326441C770000B4B6 /* Preview Assets.xcassets */; };
+		55F24CCC2644200F0000B4B6 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F24CCB2644200F0000B4B6 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		55F24CC026441C770000B4B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55F24CC326441C770000B4B6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		55F24CC526441C770000B4B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55F24CCB2644200F0000B4B6 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				55F24CBC26441C760000B4B6 /* LearningGitHubApp.swift */,
 				55F24CBE26441C760000B4B6 /* ContentView.swift */,
+				55F24CCB2644200F0000B4B6 /* ModalView.swift */,
 				55F24CC026441C770000B4B6 /* Assets.xcassets */,
 				55F24CC526441C770000B4B6 /* Info.plist */,
 				55F24CC226441C770000B4B6 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55F24CCC2644200F0000B4B6 /* ModalView.swift in Sources */,
 				55F24CBF26441C760000B4B6 /* ContentView.swift in Sources */,
 				55F24CBD26441C760000B4B6 /* LearningGitHubApp.swift in Sources */,
 			);
